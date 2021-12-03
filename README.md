@@ -20,9 +20,17 @@ homework for big data and cloud platform
 ## 环境初始化
 
 相关代码位于start文件夹中
+
+
 通过运行`hadoop_start.sh`文件开启hadoop
+
+
 通过运行`hive_start.sh`文件开启hive
+
+
 通过运行`spark_start.sh`文件开启start
+
+
 通过运行`data.sh`文件将 `metric.txt` 文件上传到 `hdfs://data/` 文件夹储存
 
 ## 利用hadoop 的 mapreduce 框架求平均值
