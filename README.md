@@ -43,7 +43,7 @@ homework for big data and cloud platform
 
 相关代码位于 spark 文件中
 
-通过 spark-shell 交互式界面输入 spark 文件夹下的 `spark.md` 中的语句即求出不同的 id 和 kpi 对应的 value 的分位数
+通过 spark-shell 交互式界面输入 spark 文件夹下的 `spark.md` 中的语句即求出不同的 id 和 kpi 对应的 value 的极值
 
 ## 利用 seaborn 库做结果的可视化展示
 
