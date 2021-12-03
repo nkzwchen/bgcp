@@ -45,9 +45,7 @@ homework for big data and cloud platform
 
 通过 spark-shell 交互式界面输入 spark 文件夹下的 `spark.md` 中的语句即求出不同的 id 和 kpi 对应的 value 的分位数
 
-## 利用 matplotlib 做箱形图展示
+## 利用 seaborn 库做结果的可视化展示
 
-相关代码位于 plot 文件夹中
-
-
+相关代码位于 plot 文件夹中, 修改 `plot.py` 中的 name 变量即可画出对应的 cmbd 和 kpi 的数据分布情况
 
